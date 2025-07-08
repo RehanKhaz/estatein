@@ -114,7 +114,7 @@ export const faqs = [
 
 export const ourValues = [
   {
-    image: '/assets/trust.png',
+    image: '/assets/Trust.png',
     title: 'Trust',
     description:
       'Trust is the cornerstone of every successful real estate transaction.'
@@ -132,7 +132,7 @@ export const ourValues = [
       'Your dreams and needs are at the center of our universe. We listen, understand.'
   },
   {
-    image: '/assets/trust.png',
+    image: '/assets/Trust.png',
     title: 'Our Commitment',
     description:
       'We are dedicated to providing you with the highest level of service, professionalism, and support.'
