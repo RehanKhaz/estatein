@@ -35,7 +35,7 @@ const Testimonials = () => {
                 {[1, 2, 3, 4, 5].map((_, index) => (
                   <div key={index} className='secondary-color rounded-full p-2'>
                     <Image
-                      src={'/assets/star.png'}
+                      src={'/assets/Star.png'}
                       className='size-fit object-cover'
                       width={20}
                       height={20}

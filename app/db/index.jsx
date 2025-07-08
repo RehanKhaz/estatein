@@ -234,7 +234,7 @@ export const valueClients = [
 
 export const propertyValues = [
   {
-    image: '/assets/trust.png',
+    image: '/assets/Trust.png',
     title: 'Valuation Mastery',
     link : 'valuation',
     description:
@@ -255,7 +255,7 @@ export const propertyValues = [
     'Negotiating the best deal is an art, and our negotiation experts are masters of it.'
   },
   {
-    image: '/assets/trust.png',
+    image: '/assets/Trust.png',
     title: 'Closing Success',
     link : 'closing',
     description:

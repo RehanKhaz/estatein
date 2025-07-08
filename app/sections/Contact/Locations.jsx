@@ -38,7 +38,7 @@ const Locations = () => {
           const { description, title, status } = office
           return (
             <div
-              className='p-8 max-lg:p-4 max-sm:p-3 border-[.5px] space-y-4 border-neutral-800 rounded-xl'
+              className='p-8 max-lg:p-4 max-sm:p-3 flex-col flex justify-between border-[.5px] space-y-3 border-neutral-800 rounded-xl'
               key={i}
             >
               <h4 className='text-white text-xl max-md:text-[1em] tracking-tight'>
